@@ -1,0 +1,22 @@
+body{
+    text-align:center;
+}
+textarea{
+    width:32%;
+    float:top;
+    min-height: 250px;
+    overflow:scroll;
+    margin:auto;
+    display:inline-block;
+    background:palegoldenrod;
+    color:black !important;
+    outline:none;
+    font-family:courier, sans-serif;
+    font-size:14px; 
+}
+iframe{
+    bottom:0;
+    position:relative;
+    width:100%;
+    height:35em;
+}

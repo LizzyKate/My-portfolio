@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color:black;
+}
+h1{
+    text-align: center;
+    color: white;
+    margin-bottom: 20px;
+}
+img{
+    width:100%;
+}
+a div{
+    text-align: center;
+}
+button{
+    background: black !important ;
+    border: 1px solid white !important;
+}
